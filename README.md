@@ -1,8 +1,8 @@
 ### 1. echarts点击事件
 
 <img width="780" height="724" alt="c2d75d31e81436df6530e787012b4c90" src="https://github.com/user-attachments/assets/8a1f3fb2-91f5-41f8-971e-59538db8dd91" />
+<img width="665" height="326" alt="7cb1294dbe06fa9175dde9e5b9bc3b71" src="https://github.com/user-attachments/assets/55776caf-b884-4ed8-a8ab-034a9c3b0e21" />
 
-<img width="552" height="271" alt="7d14c19ce6e1f122bc19828de7cd5e86" src="https://github.com/user-attachments/assets/943ddf6b-817b-43bd-9373-291e71bbd9d2" />
 
 ### 2. 盯盘异动板块
 <img width="1122" height="590" alt="11380a55e5aa5836d438609c3dfb1c52" src="https://github.com/user-attachments/assets/3d7ffb5c-8d02-4f83-9709-da3fe711f285" />
