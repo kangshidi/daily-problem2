@@ -1,7 +1,7 @@
 ### 1. echarts点击事件
 
 <img width="780" height="724" alt="c2d75d31e81436df6530e787012b4c90" src="https://github.com/user-attachments/assets/8a1f3fb2-91f5-41f8-971e-59538db8dd91" />
-<img width="665" height="326" alt="7cb1294dbe06fa9175dde9e5b9bc3b71" src="https://github.com/user-attachments/assets/55776caf-b884-4ed8-a8ab-034a9c3b0e21" />
+<img width="552" height="271" alt="7d14c19ce6e1f122bc19828de7cd5e86" src="https://github.com/user-attachments/assets/965eb8c1-e946-413f-ba5e-6613b611e521" />
 
 
 ### 2. 盯盘异动板块
@@ -10,7 +10,7 @@
 ### 3. 流式输出
 
 <img width="666" height="709" alt="817bb9edc0ab55ea1b4134c2add04266" src="https://github.com/user-attachments/assets/9978d9fb-3b84-4abe-9572-5fbe28bb2ced" />
-<img width="622" height="437" alt="7ec49eea0b55bbe0b923ffcd9779aa26" src="https://github.com/user-attachments/assets/85227152-5374-45e5-8650-1a36523e3b07" />
+<img width="665" height="326" alt="7cb1294dbe06fa9175dde9e5b9bc3b71" src="https://github.com/user-attachments/assets/5fa8b2b5-6f75-4310-8f83-7c7db6d8935e" />
 
 <img width="723" height="576" alt="8b13ace991c247c5df4c458d10f22fb6" src="https://github.com/user-attachments/assets/8df7f959-d7d1-4356-8d82-37f110468c4a" />
 <img width="755" height="605" alt="31eaff0b152d6f493e0bb251112fc595" src="https://github.com/user-attachments/assets/39643318-d51f-48d0-8954-9068fe848d55" />
