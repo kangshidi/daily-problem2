@@ -17,4 +17,14 @@
 <img width="667" height="727" alt="899ecac7dca71da27a5db44516cc7c3c" src="https://github.com/user-attachments/assets/afcfa4f6-d579-4225-8fde-6c4ee63d77c2" />
 <img width="600" height="100" alt="4f6aec375fbeb51226a9330dd124495c" src="https://github.com/user-attachments/assets/1e456ee8-82c7-4fe2-be55-e4f120761051" />
 
+### 4. 接口轮询
+
+<img width="455" height="306" alt="image" src="https://github.com/user-attachments/assets/f2f7c99a-ebfd-4a66-b8b4-88a42e9dad0c" />
+<img width="773" height="803" alt="image" src="https://github.com/user-attachments/assets/2bd4e9fa-bad3-4bfa-81bd-c9dd06ab33bc" />
+<img width="722" height="363" alt="image" src="https://github.com/user-attachments/assets/d7fb34f0-112d-4a78-aa78-d7b33523047b" />
+<img width="789" height="691" alt="image" src="https://github.com/user-attachments/assets/d2ac5632-f49e-4022-a157-2572208d5a12" />
+
+
+
+
 
